@@ -14,10 +14,10 @@
 3. Navigate to the Basic-Portfolio folder cloned onto your machine. Inside this folder, create the following: 
 
  * 3 HTML documents: index.html, contact.html and portfolio.html.
-   A folder called assets.
-  Inside the assets directory, make two additional folders: css and images.
-  In the css folder, make a file called style.css.
-  In the css folder, make a file called reset.css, and include the code found from the Meyerweb reset.
+ * A folder called assets.
+ * Inside the assets directory, make two additional folders: css and images.
+ * In the css folder, make a file called style.css.
+ * In the css folder, make a file called reset.css, and include the code found from the Meyerweb reset.
 
 4. Push the above changes to GitHub. 
 
